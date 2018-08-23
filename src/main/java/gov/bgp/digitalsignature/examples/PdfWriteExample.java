@@ -1,4 +1,4 @@
-package gov.bgp.digitalsignature;
+package gov.bgp.digitalsignature.examples;
 
 import com.itextpdf.text.*;
 import com.itextpdf.text.pdf.PdfWriter;
