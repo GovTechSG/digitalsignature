@@ -10,7 +10,7 @@ import java.io.IOException;
 
 public class PdfWriteExample {
 
-    private static final String FILE_NAME = "/tmp/itext.pdf";
+    private static final String FILE_NAME = "tmp/itext.pdf";
 
     public static void main(String[] args) {
         writeUsingIText();
